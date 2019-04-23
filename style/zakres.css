@@ -1,0 +1,41 @@
+div {
+    font-size: 0px;
+}
+
+ul {
+
+    height: auto;
+    font-size: 2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+    font-weight: 700;
+    border: 3px solid black;
+    padding: 5px 5px;
+
+}
+
+.overview {
+    display: inline-block;
+    width: 49%;
+    float: right;
+}
+
+.mechanics {
+    width: 49%;
+
+}
+
+li {
+    font-size: 1.8rem;
+    font-weight: 400;
+    font-style: italic;
+    list-style: none;
+
+}
+
+
+p {
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}

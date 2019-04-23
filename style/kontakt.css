@@ -1,0 +1,21 @@
+.contact {
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+ul {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+li {
+    font-weight: 400;
+    font-size: 20px;
+    list-style: none;
+}
+
+p {
+    text-align: left;
+}
